@@ -1,0 +1,14 @@
+{
+	"$schema": "https://json.schemastore.org/block.json",
+	"apiVersion": 2,
+	"name": "block-json/example-six",
+	"version": "1.0.0",
+	"title": "Example Six Block",
+	"category": "widgets",
+	"description": "",
+	"attributes": {},
+	"supports": {},
+	"textdomain": "block-json",
+	"editorScript": "file:../build/example-six.js",
+	"viewScript": "example-six-view"
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://json.schemastore.org/block.json",
+	"apiVersion": 2,
+	"name": "block-json/example-three",
+	"version": "1.0.0",
+	"title": "Example Three Block",
+	"category": "widgets",
+	"description": "",
+	"attributes": {},
+	"supports": {},
+	"textdomain": "block-json",
+	"editorScript": "file:../build/example-three.js",
+	"viewScript": "example-three-view"
+}
